@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Settings.png</file>
+        <file>FBH-Logo.png</file>
+        <file>FBH-Logo halbtransparent.png</file>
+        <file>Plasma_Startpicture.png</file>
+        <file>FbhLogo.png</file>
+        <file>Schalter_gruen.png</file>
+        <file>Schalter_gruen_gedrueckt.png</file>
+        <file>Schalter_rot.png</file>
+        <file>Schalter_rot_gedrueckt.png</file>
+    </qresource>
+</RCC>
